@@ -1,0 +1,29 @@
+Agent 3 listening
+Agent 3 Received: 0
+Agent 3 sent 0 to 4, 1, 
+Agent 3 listening
+Agent 3 Received: 0
+Agent 3 listening
+Agent 3 Received: 0
+Agent 3 listening
+Agent 3 Received: 2
+Agent 3 sent 2 to 2, 0, 
+Agent 3 listening
+Agent 3 Received: 2
+Agent 3 listening
+Agent 3 Received: 3
+Agent 3 sent 3 to 1, 0, 
+Agent 3 listening
+Agent 3 Received: 3
+Agent 3 listening
+Agent 3 Received: 4
+Agent 3 sent 4 to 4, 1, 
+Agent 3 listening
+Agent 3 Received: 4
+Agent 3 listening
+Agent 3 Received: 5
+Agent 3 sent 5 to 0, 2, 
+Agent 3 listening
+Agent 3 Received: 6
+Agent 3 sent 6 to 2, 1, 
+Agent 3 listening

@@ -1,0 +1,22 @@
+stb_image.h(4152): warning #550-D: variable "old_limit" was set but never used
+     unsigned int cur, limit, old_limit;
+                              ^
+
+Remark: The warnings can be suppressed with "-diag-suppress <warning-number>"
+
+stb_image.h(5038): warning #550-D: variable "idata_limit_old" was set but never used
+                 stbi__uint32 idata_limit_old = idata_limit;
+                              ^
+
+stb_image.h(6778): warning #550-D: variable "out_size" was set but never used
+        int out_size = 0;
+            ^
+
+stb_image.h(6779): warning #550-D: variable "delays_size" was set but never used
+        int delays_size = 0;
+            ^
+
+Loaded image valve.png of size 600x450.
+width, height, cpp: 600, 450, 1.
+datasize: 270000.
+Kernel Execution time is: 0.859 milliseconds 

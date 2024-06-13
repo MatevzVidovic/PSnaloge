@@ -1,0 +1,7 @@
+gcc sobel.c -o sobel -lm
+
+-lm nujen za math knjiznico linkat
+
+./sobel valve.png out2.png  >out.txt
+
+srun --reservation=psistemi sobel valve.png out3.png  >out.txt

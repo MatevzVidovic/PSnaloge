@@ -1,0 +1,40 @@
+Agent 1 listening
+Agent 1 Received: 0
+Agent 1 sent 0 to 2, 3, 
+Agent 1 listening
+Agent 1 Received: 0
+Agent 1 listening
+Agent 1 Received: 1
+Agent 1 sent 1 to 4, 0, 
+Agent 1 listening
+Agent 1 Received: 1
+Agent 1 listening
+Agent 1 Received: 2
+Agent 1 sent 2 to 2, 3, 
+Agent 1 listening
+Agent 1 Received: 2
+Agent 1 listening
+Agent 1 Received: 3
+Agent 1 sent 3 to 2, 4, 
+Agent 1 listening
+Agent 1 Received: 3
+Agent 1 listening
+Agent 1 Received: 4
+Agent 1 sent 4 to 0, 2, 
+Agent 1 listening
+Agent 1 Received: 4
+Agent 1 listening
+Agent 1 Received: 4
+Agent 1 listening
+Agent 1 Received: 5
+Agent 1 sent 5 to 3, 2, 
+Agent 1 listening
+Agent 1 Received: 5
+Agent 1 listening
+Agent 1 Received: 5
+Agent 1 listening
+Agent 1 Received: 6
+Agent 1 sent 6 to 0, 2, 
+Agent 1 listening
+Agent 1 Received: 6
+Agent 1 listening

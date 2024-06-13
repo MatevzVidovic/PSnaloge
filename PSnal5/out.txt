@@ -1,0 +1,2 @@
+Loaded image valve.png of size 600x450.
+Kernel Execution time is: 27.695 milliseconds 
